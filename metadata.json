@@ -1,0 +1,6 @@
+{
+  "name": "PetCart - Organic Pet Food & Real-Time Veterinary Appointments",
+  "description": "Order certified organic, farm-fresh pet nutrition and schedule real-time veterinary telehealth and in-clinic consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
